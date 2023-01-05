@@ -1,4 +1,4 @@
-# Query group by aninhado
+# Queries
 select Atendentes_distintos, count(distinct CustomerID) as Clientes_distintos
 from
 (
